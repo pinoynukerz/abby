@@ -1,6 +1,6 @@
 ## The Condominium Spcialist at GitHub
 
-This is just a test page condo for rent [Metro Manila Philippines](http://www.mycondo.com.ph/condo-for-sale/) you can find more domicile units up for sale there.
+This is just a test page [condo for rent Metro Manila Philippines](http://www.mycondo.com.ph/condo-for-sale/) you can find more domicile units up for sale there.
 
 You can use the [editor on GitHub](https://github.com/pinoynukerz/abby/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
