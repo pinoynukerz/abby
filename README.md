@@ -1,5 +1,13 @@
 ## The Condominium Specialist at GitHub
 
+Website Coded by  **alfred Matz** of **PinoyNukerz** , **mxwebdesign**
+
+**The Condominium Specialist**
+- [condo rent sale](http://www.condo.com.ph/) condominium specialist main page.
+- [condo for rent](http://www.condo.com.ph/condo-for-rent/) looking for condo for rent in the Philippines.
+
+
+
 This is just a test page for [condo for rent Metro Manila Philippines](http://www.mycondo.com.ph/condo-for-sale/) you can find more domicile units up for sale there.
 
 You can use the [editor on GitHub](https://github.com/pinoynukerz/abby/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
