@@ -5,11 +5,11 @@ Website Coded by  **Alfred Matz** of **PinoyNukerz** and **mxwebdesign**
 ### PROJECTS
 
 **The Condominium Specialist**
-- [condo rent sale](http://www.condo.com.ph/) condominium specialist main page.
-- [condo for rent](http://www.condo.com.ph/condo-for-rent/) looking for condo for rent in the Philippines.
-- [condo for sale](http://www.condo.com.ph/condo-for-sale/) looking for condo for sale in the Philippines.
-- [condo for sale in makati](http://www.condo.com.ph/condo-for-sale/makati/) looking for condo for sale in makati, Philippines.
-- [condo for rent in makati](http://www.condo.com.ph/condo-for-rent/makati/) looking for condo for rent in makati, Philippines.
+- **[condo rent sale](http://www.condo.com.ph/)** - condominium specialist main page.
+- **[condo for rent](http://www.condo.com.ph/condo-for-rent/)** -  looking for condo for rent in the Philippines.
+- **[condo for sale](http://www.condo.com.ph/condo-for-sale/)** -  looking for condo for sale in the Philippines.
+- **[condo for sale in makati](http://www.condo.com.ph/condo-for-sale/makati/)** -  looking for condo for sale in makati, Philippines.
+- **[condo for rent in makati](http://www.condo.com.ph/condo-for-rent/makati/)** -  looking for condo for rent in makati, Philippines.
 
 **Condo Homes - MyCondo**
 - [condo homes - sale rent](http://www.mycondo.com.ph/) mycondo homes sale rent main page.
