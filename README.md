@@ -1,18 +1,31 @@
 ## The Condominium Specialist at GitHub
 
-Website Coded by  **alfred Matz** of **PinoyNukerz** , **mxwebdesign**
+Website Coded by  **Alfred Matz** of **PinoyNukerz** and **mxwebdesign**
+
+### PROJECTS
 
 **The Condominium Specialist**
 - [condo rent sale](http://www.condo.com.ph/) condominium specialist main page.
 - [condo for rent](http://www.condo.com.ph/condo-for-rent/) looking for condo for rent in the Philippines.
+- [condo for sale](http://www.condo.com.ph/condo-for-sale/) looking for condo for sale in the Philippines.
+- [condo for sale in makati](http://www.condo.com.ph/condo-for-sale/makati/) looking for condo for sale in makati, Philippines.
+- [condo for rent in makati](http://www.condo.com.ph/condo-for-rent/makati/) looking for condo for rent in makati, Philippines.
+
+**Condo Homes - MyCondo**
+- [condo homes - sale rent](http://www.mycondo.com.ph/) mycondo homes sale rent main page.
+- [condo for rent metro manila](http://www.mycondo.com.ph/condo-for-rent/) looking for condo for rent in metro manila, Philippines.
+- [condo for sale metro manila](http://www.mycondo.com.ph/condo-for-sale/) looking for condo for sale in metro manila, Philippines.
+
+**Condominiums for rent - Metro Manila**
+- [Condominiums for rent](http://www.condorental.com.ph/) Condominiums for rent main page.
+
+**Makati Condo Rent Sale**
+- [Makati Condo Rent Sale](http://www.makaticondo.com.ph/) Condominiums for rent and sale in Makati City main page.
+
+**Property Central Inc**
+- [Condominium Philippines](http://www.propertycentral.com.ph/) Condominium Philippines Properties for sale.
 
 
-
-This is just a test page for [condo for rent Metro Manila Philippines](http://www.mycondo.com.ph/condo-for-sale/) you can find more domicile units up for sale there.
-
-You can use the [editor on GitHub](https://github.com/pinoynukerz/abby/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
